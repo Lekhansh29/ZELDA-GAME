@@ -31,7 +31,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/zelda-game.git
+git clone https://github.com/lekhanshhedau/zelda-game.git
 cd zelda-game
 Install dependencies:
 
